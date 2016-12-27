@@ -54,7 +54,7 @@ def test_consume_4():
 
 def test_daaaangerous():
     try:
-       wordcount_lib.daaaangerous()
-       assert False
+        wordcount_lib.daaaangerous()
+        assert False
     except ZeroDivisionError as e:
-      assert True, 'Should throw a divideebyzero'
+        assert True, 'Should throw a divideebyzero' 
