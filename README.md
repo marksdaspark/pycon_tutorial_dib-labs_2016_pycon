@@ -1,4 +1,4 @@
-# pycon_tutorial_dib-labs_2016_pycon
+# pycon_tutorial_dib-labs_mark
 
 __Creating, building, testing and documenting a Python project__
 
